@@ -8,7 +8,7 @@ on:
 env:
   # Setting registry and image name
   REGISTRY: docker.io
-  IMAGE_NAME: alebuj/nodeapp:latest
+  IMAGE_NAME: alebuj/myapp:latest
 
 jobs:
     publish:
